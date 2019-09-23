@@ -1,3 +1,5 @@
 <?php
 
-echo "<img src='img/".$_POST['disney'].".jpg'>";
+foreach ($_POST['disney'] as $disney) {
+    echo "<img src='img/" . $disney . ".jpg'>";
+}
