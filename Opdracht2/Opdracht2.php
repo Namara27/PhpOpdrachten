@@ -9,7 +9,7 @@ $e = " die geen fout";
 $f = "en ";
 $g = " niet";
 $volledigeZin = "Mensen " . $e . $f . "maken, " . "werken" . $g . ".";
-echo$volledigeZin."<br>";
+echo $volledigeZin."<br>";
 
 $h = "ry";
 $i = ", but";
