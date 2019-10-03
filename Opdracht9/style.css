@@ -1,0 +1,56 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+nav {
+    height: 30px;
+    text-align: left;
+    margin-left: 132px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.broodjes {
+    margin: auto;
+    width: 1000px;
+    padding-left: 100px;
+}
+
+th {
+    padding-bottom: 10px;
+}
+
+td {
+    border-top: solid 1px #ddd;
+    padding: 10px;
+    width: 300px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+form {
+    margin: auto;
+    width: 900px
+}
+
+form input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 900px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    height: 10%;
+}
